@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aishwarya N</h1>
+<h3 align="center">A passionate developer from India </h3>
 
-<!--
-**Aishu301002/Aishu301002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently been learning **Python**
+  
+- 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Programming**
+
+- 📫 Reach out to me at **naishwarya361@gmail.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
